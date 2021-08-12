@@ -1,7 +1,6 @@
 # CISOBudget
 Infosec Budget Tool (Originally built and shared on Peerlyst)
-
-Source link (now broken) : https://www.peerlyst.com/posts/ciso-budget-tool-crowdsourcing-our-way-to-improved-security-management
+Download link : https://github.com/sashank/CISOBudget/raw/main/InfoSecBudget_v1.0.2.xlsm 
 
 License Unknown 
 
